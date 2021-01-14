@@ -1,0 +1,151 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* banner part start  */
+
+nav {
+    background: #FFF9F4;
+}
+
+#banner_part {
+    background: #FFF9F4;
+    padding-bottom: 90px;
+}
+
+#banner_part .banner_text h1 {
+    color: #FA804C;
+    font-size: 60px;
+}
+
+#banner_part .banner_text h1 span {
+    color: #363958
+}
+
+#banner_part .banner_text p {
+    padding-right: 160px;
+    padding-bottom: 5px;
+}
+
+#banner_part .banner_text a.btn {
+    background: #4758A7;
+}
+
+
+/* banner part end */
+
+
+/* casual shoes start */
+
+.all_shoes h3,
+.all_shoes .card-title {
+    color: #363959;
+}
+
+.all_shoes p {
+    font-size: 14px;
+}
+
+#casual_shoes .card img {
+    background: #F1F1F1;
+}
+
+.all_shoes .card_bottom span {
+    color: #FA804C;
+}
+
+#casual_shoes .last_img {
+    padding-bottom: 2rem;
+}
+
+
+/* casual shoes end */
+
+
+/* about part start  */
+
+#about_part .about_text i {
+    font-size: 60px;
+    color: #BCC3D8;
+}
+
+#about_part .about_text h5 {
+    color: #363959;
+}
+
+#about_part .about_text p {
+    font-size: 14px;
+    color: #3C3F3E;
+}
+
+
+/* about part end */
+
+
+/*  client part start  */
+
+#client_part {
+    background: #587d55;
+}
+
+figcaption p {
+    color: #fff;
+    font-weight: 700;
+    padding-top: 6px;
+    text-transform: uppercase;
+}
+
+.carousel-indicators {
+    bottom: -50px;
+}
+
+
+/*  client part end  */
+
+
+/* footer part start  */
+
+.footer_contact {
+    background: #FF324D;
+}
+
+.footer_contact input {
+    width: 70%;
+    height: 60px;
+    border: 0;
+    padding: 0 15px;
+}
+
+.footer_contact input::placeholder {
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+}
+
+.footer_contact input:focus,
+.footer_contact button:focus {
+    outline: 0;
+}
+
+.footer_contact button {
+    border: 0;
+    width: 30%;
+    background: #333;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: all linear .3s;
+}
+
+.footer_contact button:hover {
+    background: #23272B;
+    color: #fff;
+}
+
+
+/* footer part end  */
